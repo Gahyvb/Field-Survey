@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5E96C55C7CA0327B4BA2427131AF060C4DAECC9D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5B50298940E1322793F31B291FDA6294689018F7" : 9223372036854775807,
+    "5E96C55C7CA0327B4BA2427131AF060C4DAECC9D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "456D5C31-20D0-4BB1-AF1A-37DF2357049E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5B50298940E1322793F31B291FDA6294689018F7" : "",
+    "5E96C55C7CA0327B4BA2427131AF060C4DAECC9D" : "Field-Survey\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Field Survey",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Field Survey\/Field Survey.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Gahyvb\/INFOTC4001.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5B50298940E1322793F31B291FDA6294689018F7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Gahyvb\/Field-Survey.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5E96C55C7CA0327B4BA2427131AF060C4DAECC9D"
+    }
+  ]
+}
